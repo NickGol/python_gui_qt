@@ -7,12 +7,13 @@ window = QtWidgets.QWidget()             # Создаем окно
 window.setWindowTitle("Заголовок окна")  # Указываем заголовок
 window.resize(300, 50)                   # Минимальные размеры
 #
-window.setWindowFlags(QtCore.Qt.Window |
+"""window.setWindowFlags(QtCore.Qt.Window |
                       QtCore.Qt.FramelessWindowHint |
                       QtCore.Qt.WindowTitleHint |
-                      QtCore.Qt.WindowStaysOnTopHint)
+                      QtCore.Qt.WindowStaysOnTopHint)"""
 window.setWindowOpacity(0.5)
 print(window.windowFlags() | QtCore.Qt.WindowStaysOnTopHint)
+print("456")
 window.show()                            # Отображаем окно
 """print(window.isVisible())
 print(window.isHidden())
