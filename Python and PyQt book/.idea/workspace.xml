@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="501b27cb-0d3d-4021-b874-e575be27f4cd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter_21/listing 21.4 p 453 min max window" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter_21/listing 21.6 p 455 modal window.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python and PyQt book.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python and PyQt book.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_21/listing 21.8 p 458 change background colour.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_21/listing 21.1 p 435 window.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_21/listing 21.1 p 435 window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_21/listing 21.6 p 455 modal window.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_21/listing 21.6 p 455 modal window.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,45 +18,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/listing 20.21 p 432 SplashScreen.py">
+        <entry file="file://$PROJECT_DIR$/Chapter_21/listing 21.6 p 455 modal window.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-              <folding>
-                <element signature="e#24#66#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_21/listing 21.1 p 435 window.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="416">
+              <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
               <folding>
                 <element signature="e#24#59#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter_21/listing 21.4 p 453 min max window">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter_21/listing 21.6 p 455 modal window.py">
+        <entry file="file://$PROJECT_DIR$/Chapter_21/listing 21.8 p 458 change background colour.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="340">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
               <folding>
-                <element signature="e#24#59#0" expanded="true" />
+                <element signature="e#24#66#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -104,7 +80,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/listing 20.17 p 425 QThread_Queue.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
+            <state relative-caret-position="442">
               <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
               <folding>
                 <element signature="e#24#59#0" expanded="true" />
@@ -149,6 +125,7 @@
         <option value="$PROJECT_DIR$/Chapter_21/listing 21.1 p 435 window.py" />
         <option value="$PROJECT_DIR$/Chapter_21/listing 21.4 p 453 min max window" />
         <option value="$PROJECT_DIR$/Chapter_21/listing 21.6 p 455 modal window.py" />
+        <option value="$PROJECT_DIR$/Chapter_21/listing 21.8 p 458 change background colour.py" />
       </list>
     </option>
   </component>
@@ -164,7 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,6 +157,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Course" />
     </panes>
   </component>
@@ -200,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.listing 21.6 p 455 modal window">
+  <component name="RunManager" selected="Python.listing 21.8 p 458 change background colour">
     <configuration name="Hello_p_400" type="PythonConfigurationType" factoryName="Python">
       <module name="Python and PyQt book" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,27 +191,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hello_p_400.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="listing 20.18-20 p 428 QMutex" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python and PyQt book" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listing 20.18-20 p 428 QMutex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,21 +283,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="listing 21.8 p 458 change background colour" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python and PyQt book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_21" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_21/listing 21.8 p 458 change background colour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.Hello_p_400" />
-      <item itemvalue="Python.listing 20.18-20 p 428 QMutex" />
       <item itemvalue="Python.listing 20.21 p 432 SplashScreen" />
       <item itemvalue="Python.listing 21.1 p 435 window" />
       <item itemvalue="Python.listing 21.4 p 453 min max window" />
       <item itemvalue="Python.listing 21.6 p 455 modal window" />
+      <item itemvalue="Python.listing 21.8 p 458 change background colour" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.listing 21.8 p 458 change background colour" />
         <item itemvalue="Python.listing 21.6 p 455 modal window" />
         <item itemvalue="Python.listing 21.4 p 453 min max window" />
         <item itemvalue="Python.listing 21.1 p 435 window" />
         <item itemvalue="Python.listing 20.21 p 432 SplashScreen" />
-        <item itemvalue="Python.listing 20.18-20 p 428 QMutex" />
       </list>
     </recent_temporary>
   </component>
@@ -356,6 +333,14 @@
       <option name="presentableId" value="Default" />
       <updated>1565724302138</updated>
     </task>
+    <task id="LOCAL-00001" summary="modal window">
+      <created>1566823984644</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566823984654</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -381,6 +366,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modal window" />
+    <option name="LAST_COMMIT_MESSAGE" value="modal window" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -416,11 +405,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/listing 20.21 p 432 SplashScreen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="357">
           <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
           <folding>
             <element signature="e#24#66#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_21/listing 21.1 p 435 window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding>
+            <element signature="e#24#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_21/listing 21.4 p 453 min max window">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -454,7 +460,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/listing 20.17 p 425 QThread_Queue.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
+        <state relative-caret-position="442">
           <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
           <folding>
             <element signature="e#24#59#0" expanded="true" />
@@ -469,29 +475,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_21/listing 21.1 p 435 window.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="410">
+          <caret line="880" column="9" selection-start-line="880" selection-start-column="9" selection-end-line="880" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_21/listing 21.6 p 455 modal window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
           <folding>
             <element signature="e#24#59#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_21/listing 21.4 p 453 min max window">
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1349997319/PyQt5/QtWidgets/QWidget.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+        <state relative-caret-position="197">
+          <caret line="756" column="8" selection-start-line="756" selection-start-column="8" selection-end-line="756" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_21/listing 21.6 p 455 modal window.py">
+    <entry file="file://$PROJECT_DIR$/Chapter_21/listing 21.8 p 458 change background colour.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="340">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
           <folding>
-            <element signature="e#24#59#0" expanded="true" />
+            <element signature="e#24#66#0" expanded="true" />
           </folding>
         </state>
       </provider>
