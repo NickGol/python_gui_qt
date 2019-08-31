@@ -28,4 +28,12 @@ window2.setWindowTitle("Это окно не будет блокировано �
 window2.resize(500, 100)
 window2.show()
 
+from PyQt5 import QtGui
+for i in QtGui.QImageReader.supportedImageFormats():
+    print(str(i, "ascii").upper(), end=" ")
+
+ico = QtGui.QIcon("icon1.png")
+window1.setWindowIcon(ico)
+window1.setWindowIconText("qwerty")
+
 sys.exit(app.exec_())
