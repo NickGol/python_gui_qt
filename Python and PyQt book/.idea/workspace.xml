@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="501b27cb-0d3d-4021-b874-e575be27f4cd" name="Default Changelist" comment="21.2">
+      <change afterPath="$PROJECT_DIR$/Chapter_21/Groupbox Example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_21/QColorDialog_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_23/listing 23.1 Absolute positioning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_23/listing 23.2 Using QHBoxLayout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter_23/listing 23.3 p 508 Using QGridLayout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python and PyQt book.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python and PyQt book.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter_21/listing 21.1 p 435 window.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_21/listing 21.1 p 435 window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter_21/listing 21.8 p 458 change background colour.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter_21/listing 21.8 p 458 change background colour.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,36 +24,48 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hello_p_400.py">
+        <entry file="file://$PROJECT_DIR$/Chapter_23/listing 23.1 Absolute positioning.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state relative-caret-position="153">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
-                <element signature="e#16#43#0" expanded="true" />
+                <element signature="e#24#51#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/listing 20.21 p 432 SplashScreen.py">
+        <entry file="file://$PROJECT_DIR$/Chapter_23/listing 23.2 Using QHBoxLayout.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+            <state relative-caret-position="374">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding>
-                <element signature="e#24#66#0" expanded="true" />
+                <element signature="e#24#59#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter_21/listing 21.1 p 435 window.py">
+        <entry file="file://$PROJECT_DIR$/Chapter_23/listing 23.3 p 508 Using QGridLayout.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="340">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
               <folding>
-                <element signature="e#24#66#0" expanded="true" />
+                <element signature="e#24#51#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter_21/QColorDialog_example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="42" column="79" selection-start-line="42" selection-start-column="79" selection-end-line="42" selection-end-column="79" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -134,6 +153,12 @@
         <option value="$PROJECT_DIR$/listing 20.18-20 p 428 QMutex.py" />
         <option value="$PROJECT_DIR$/listing 20.21 p 432 SplashScreen.py" />
         <option value="$PROJECT_DIR$/Chapter_21/listing 21.1 p 435 window.py" />
+        <option value="$PROJECT_DIR$/Chapter_21/QColorDialog_example.py" />
+        <option value="$PROJECT_DIR$/Chapter_21/Groupbox Example.py" />
+        <option value="$PROJECT_DIR$/Chapter_21/listing 21.8 p 458 change background colour.py" />
+        <option value="$PROJECT_DIR$/Chapter_23/listing 23.1 Absolute positioning.py" />
+        <option value="$PROJECT_DIR$/Chapter_23/listing 23.2 Using QHBoxLayout.py" />
+        <option value="$PROJECT_DIR$/Chapter_23/listing 23.3 p 508 Using QGridLayout.py" />
       </list>
     </option>
   </component>
@@ -162,6 +187,11 @@
               <item name="Python and PyQt book" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter_21" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python and PyQt book" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python and PyQt book" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter_23" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -185,7 +215,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.listing 21.1 p 435 window">
+  <component name="RunManager" selected="Python.listing 23.3 p 508 Using QGridLayout">
+    <configuration name="Groupbox Example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python and PyQt book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_21" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_21/Groupbox Example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Hello_p_400" type="PythonConfigurationType" factoryName="Python">
       <module name="Python and PyQt book" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,91 +258,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="listing 20.15 p 420 QThread_start_stop" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python and PyQt book" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listing 20.15 p 420 QThread_start_stop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="listing 20.17 p 425 QThread_Queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python and PyQt book" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listing 20.17 p 425 QThread_Queue.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="listing 20.18-20 p 428 QMutex" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python and PyQt book" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listing 20.18-20 p 428 QMutex.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="listing 20.21 p 432 SplashScreen" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python and PyQt book" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/listing 20.21 p 432 SplashScreen.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="listing 21.1 p 435 window" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="listing 21.8 p 458 change background colour" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python and PyQt book" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -303,7 +270,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_21/listing 21.1 p 435 window.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_21/listing 21.8 p 458 change background colour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listing 23.1 Absolute positioning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python and PyQt book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_23" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_23/listing 23.1 Absolute positioning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listing 23.2 Using QHBoxLayout" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python and PyQt book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_23" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_23/listing 23.2 Using QHBoxLayout.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="listing 23.3 p 508 Using QGridLayout" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python and PyQt book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_23" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_23/listing 23.3 p 508 Using QGridLayout.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,19 +344,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.Hello_p_400" />
-      <item itemvalue="Python.listing 20.15 p 420 QThread_start_stop" />
-      <item itemvalue="Python.listing 20.17 p 425 QThread_Queue" />
-      <item itemvalue="Python.listing 20.18-20 p 428 QMutex" />
-      <item itemvalue="Python.listing 20.21 p 432 SplashScreen" />
-      <item itemvalue="Python.listing 21.1 p 435 window" />
+      <item itemvalue="Python.listing 21.8 p 458 change background colour" />
+      <item itemvalue="Python.Groupbox Example" />
+      <item itemvalue="Python.listing 23.1 Absolute positioning" />
+      <item itemvalue="Python.listing 23.2 Using QHBoxLayout" />
+      <item itemvalue="Python.listing 23.3 p 508 Using QGridLayout" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.listing 21.1 p 435 window" />
-        <item itemvalue="Python.listing 20.21 p 432 SplashScreen" />
-        <item itemvalue="Python.listing 20.18-20 p 428 QMutex" />
-        <item itemvalue="Python.listing 20.17 p 425 QThread_Queue" />
-        <item itemvalue="Python.listing 20.15 p 420 QThread_start_stop" />
+        <item itemvalue="Python.listing 23.3 p 508 Using QGridLayout" />
+        <item itemvalue="Python.listing 23.2 Using QHBoxLayout" />
+        <item itemvalue="Python.listing 23.1 Absolute positioning" />
+        <item itemvalue="Python.listing 21.8 p 458 change background colour" />
+        <item itemvalue="Python.Groupbox Example" />
       </list>
     </recent_temporary>
   </component>
@@ -353,13 +383,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49828178" visible="true" weight="0.24960254" />
       <window_info id="Structure" order="1" sideWeight="0.5017182" side_tool="true" weight="0.24960254" />
       <window_info id="Favorites" order="2" sideWeight="0.5017182" side_tool="true" weight="0.24960254" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49841017" weight="0.32949308" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49841017" visible="true" weight="0.32949308" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.24769585" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -391,8 +422,18 @@
           <line>28</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chapter_21/listing 21.8 p 458 change background colour.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Hello_p_400.py">
@@ -407,10 +448,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/listing 20.21 p 432 SplashScreen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="374">
           <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
           <folding>
             <element signature="e#24#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1349997319/PyQt5/QtWidgets/QWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="731" column="12" lean-forward="true" selection-start-line="731" selection-start-column="12" selection-end-line="731" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_21/listing 21.1 p 435 window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_21/Groupbox Example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#56#66#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_21/listing 21.8 p 458 change background colour.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="27" />
+          <folding>
+            <element signature="e#1162#1172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_23/listing 23.1 Absolute positioning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding>
+            <element signature="e#24#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_21/QColorDialog_example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="42" column="79" selection-start-line="42" selection-start-column="79" selection-end-line="42" selection-end-column="79" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -460,12 +555,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter_21/listing 21.1 p 435 window.py">
+    <entry file="file://$PROJECT_DIR$/Chapter_23/listing 23.2 Using QHBoxLayout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="28" lean-forward="true" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="374">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
           <folding>
-            <element signature="e#24#66#0" expanded="true" />
+            <element signature="e#24#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter_23/listing 23.3 p 508 Using QGridLayout.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="e#24#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
