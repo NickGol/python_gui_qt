@@ -19,7 +19,7 @@ snake = [
 food = [int(sh/2), int(sw/2)]
 w.addch(int(food[0]), int(food[1]), curses.ACS_PI)
 
-key = curses.KEY_RIGHT
+ key = curses.KEY_RIGHT
 
 while True:
     next_key = w.getch()
