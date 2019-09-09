@@ -19,7 +19,7 @@ snake = [
 food = [int(sh/2), int(sw/2)]
 w.addch(int(food[0]), int(food[1]), curses.ACS_PI)
 
- key = curses.KEY_RIGHT
+key = curses.KEY_RIGHT
 
 while True:
     next_key = w.getch()
@@ -61,9 +61,9 @@ while True:
                 random.randint(1, sw-1)
             ]
             food = nf if nf not in snake else None
-        w.addch(nf[0], nf[1], curses.ACS_PI)
+        w.addch(nf[0], nf[1], '#')
     else:
         tail = snake.pop()
         w.addch(int(tail[0]), int(tail[1]), ' ')
 
-    w.addch(int(snake[0][0]), int(snake[0][1]), curses.ACS_CKBOARD)
+    w.addch(int(snake[0][0]), int(snake[0][1]), "")
