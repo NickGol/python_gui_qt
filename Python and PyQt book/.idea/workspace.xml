@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="501b27cb-0d3d-4021-b874-e575be27f4cd" name="Default Changelist" comment="snake game">
-      <change afterPath="$PROJECT_DIR$/snake 1.py" afterDir="false" />
+    <list default="true" id="501b27cb-0d3d-4021-b874-e575be27f4cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/snake AI.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snake.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,24 +17,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/snake.py">
+        <entry file="file://$PROJECT_DIR$/snake 1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="715">
-              <caret line="68" column="49" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
+            <state relative-caret-position="177">
+              <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/snake 1.py">
+        <entry file="file://$PROJECT_DIR$/snake AI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="186" column="29" selection-start-line="186" selection-start-column="29" selection-end-line="186" selection-end-column="29" />
+            <state relative-caret-position="185">
+              <caret line="93" column="16" selection-start-line="93" selection-start-column="16" selection-end-line="93" selection-end-column="16" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#4580#4626#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,12 +156,13 @@
         <option value="$PROJECT_DIR$/Chapter_23/listing 23.3 p 508 Using QGridLayout.py" />
         <option value="$PROJECT_DIR$/snake.py" />
         <option value="$PROJECT_DIR$/snake 1.py" />
+        <option value="$PROJECT_DIR$/snake AI.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3" />
-    <option name="y" value="166" />
+    <option name="x" value="-36" />
+    <option name="y" value="279" />
     <option name="width" value="1296" />
     <option name="height" value="802" />
   </component>
@@ -193,8 +193,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Course" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,7 +213,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.snake 1">
+  <component name="RunManager" selected="Python.snake AI">
     <configuration name="Hello_p_400" type="PythonConfigurationType" factoryName="Python">
       <module name="Python and PyQt book" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,27 +248,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_21/listing 21.8 p 458 change background colour.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="listing 23.2 Using QHBoxLayout" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python and PyQt book" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter_23" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter_23/listing 23.2 Using QHBoxLayout.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,6 +298,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="snake AI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python and PyQt book" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/snake AI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python and PyQt book" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -343,18 +343,18 @@
     <list>
       <item itemvalue="Python.Hello_p_400" />
       <item itemvalue="Python.listing 21.8 p 458 change background colour" />
-      <item itemvalue="Python.listing 23.2 Using QHBoxLayout" />
       <item itemvalue="Python.listing 23.3 p 508 Using QGridLayout" />
       <item itemvalue="Python.snake" />
       <item itemvalue="Python.snake 1" />
+      <item itemvalue="Python.snake AI" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.snake AI" />
         <item itemvalue="Python.snake 1" />
         <item itemvalue="Python.snake" />
         <item itemvalue="Python.listing 21.8 p 458 change background colour" />
         <item itemvalue="Python.listing 23.3 p 508 Using QGridLayout" />
-        <item itemvalue="Python.listing 23.2 Using QHBoxLayout" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +404,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567978946513</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="snake game pygame">
+      <created>1568061482604</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568061482604</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -435,7 +442,8 @@
     <MESSAGE value="21.2" />
     <MESSAGE value="new Chapter 23" />
     <MESSAGE value="snake game" />
-    <option name="LAST_COMMIT_MESSAGE" value="snake game" />
+    <MESSAGE value="snake game pygame" />
+    <option name="LAST_COMMIT_MESSAGE" value="snake game pygame" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -571,7 +579,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snake.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="715">
+        <state relative-caret-position="1139">
           <caret line="68" column="49" selection-start-line="68" selection-start-column="49" selection-end-line="68" selection-end-column="49" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -643,10 +651,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snake 1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="186" column="29" selection-start-line="186" selection-start-column="29" selection-end-line="186" selection-end-column="29" />
+        <state relative-caret-position="177">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snake AI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="93" column="16" selection-start-line="93" selection-start-column="16" selection-end-line="93" selection-end-column="16" />
+          <folding>
+            <element signature="e#4580#4626#0" expanded="true" />
           </folding>
         </state>
       </provider>
